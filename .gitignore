@@ -27,7 +27,6 @@
 *.fls
 *.bcf
 *.xml
-*.pdf
 .vscode/
 !.vscode/settings.json
 
